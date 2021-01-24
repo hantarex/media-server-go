@@ -1,6 +1,6 @@
 [submodule "media-server"]
 	path = media-server
-	url = https://github.com/notedit/media-server.git
+	url = https://github.com/hantarex/media-server.git
 [submodule "thirdparty/libsrtp"]
 	path = thirdparty/libsrtp
 	url = https://github.com/cisco/libsrtp.git
