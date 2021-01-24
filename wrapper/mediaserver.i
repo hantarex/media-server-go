@@ -961,7 +961,7 @@ private:
 #define BYTE		uint8_t
 #define SBYTE		char
 
-
+%include "../media-server/include/media.h"
 %include "../media-server/include/acumulator.h"
 
 
